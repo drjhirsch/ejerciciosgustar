@@ -1,7 +1,7 @@
 # Ejercicios con el verbo gustar
 
 <a href="https://h5p.org/node/506002">Video explicativo</a> sobre el uso del verbo gustar <br>
-<a href="https://h5p.org/node/506002">Hoja expolicativa </a> sobre el uso del verno gustar <br>
+<a href="https://h5p.org/node/506002">Hoja explicativa </a> sobre el uso del verno gustar <br>
 
 
 Ejercicios para practicar el uso de los verbos ser, estar y hay.
